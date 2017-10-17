@@ -1,4 +1,12 @@
-*{
-  color: red;
+div{
+  height: 250px;
 }
-ù$m:
+.blue{
+background: #2980b9;
+}
+.red{
+background: #c0392b;
+}
+.white{
+background: white;
+}
